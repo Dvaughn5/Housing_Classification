@@ -5,4 +5,4 @@ This exercise comes from Chapter 2, out of "Hands-On Machine Learning with Sciki
 ## Models
 - The first model implemented was a Linear Regression model, but there was room for a performance increase.
 - Next was to implement a Decision Tree Regressor since the data wasn't very linear. It performed well, but still there was room for growth.
-- The last model was a Random Tree Regressor. Coincidentally being the most powerful of the three models, it performed the best.
+- The last model was a Random Forrest Regressor. Coincidentally being the most powerful of the three models, it performed the best.
